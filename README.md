@@ -22,4 +22,4 @@ altitude or vertical datum.  EGM96 earth gravitional model accounts
 for variations and irregularties in earth's gravity.  Mean sea level
 (MSL) is artificial construct and is used interchangeably with EGM96.
 
-alt(WGS84) + offset = alt(MSL)
+alt(WGS84) - offset = alt(MSL)
